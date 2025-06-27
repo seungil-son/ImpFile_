@@ -50,6 +50,8 @@
     1. 초기
   
        ![Image](https://github.com/user-attachments/assets/c6f7b1b3-f688-4aee-b3c0-72ca095fa1d9)
+    
+    2. 파일 읽은 이후
       ![Image](https://github.com/user-attachments/assets/cd187e07-bc78-450c-8464-6c067e944c44)
   
     3. 점수 높은 파일 백업 저장

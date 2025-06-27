@@ -42,5 +42,7 @@
 
   4. 중개 서버의 접속방식 :  한 계정의 개인 DB(개인목적이용),
                            여러 계정의 공유 DB(단체,회사 내부 이용)
-
-https://github.com/seungil-son/ImpFile_/blob/main/READMEimage/%EC%B4%88%EA%B8%B0.png?raw=true
+- 실행 이미지
+  
+  1. 초기 실행 이미지
+  file:///C:/Users/user/Desktop/%EC%B4%88%EA%B8%B0.png

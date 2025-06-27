@@ -61,7 +61,8 @@
       ![Image](https://github.com/user-attachments/assets/1fc61006-5aff-441b-b552-2357ce8cc260)
   
     7. 백업 정리
-      ![Image](https://github.com/user-attachments/assets/faa6bf85-b752-4f51-b5bc-7477e59235ac)
+      ![Image](https://github.com/user-attachments/assets/83148f01-7901-4163-a52d-f00e43066652)
+     
   
     9. 백업 정리 이후
-      ![Image](https://github.com/user-attachments/assets/83148f01-7901-4163-a52d-f00e43066652)
+      ![Image](https://github.com/user-attachments/assets/faa6bf85-b752-4f51-b5bc-7477e59235ac)
